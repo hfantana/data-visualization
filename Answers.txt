@@ -1,0 +1,27 @@
+1. Which variables do you think relate to Happiness_Score the most? Why?
+
+
+
+2. What were the 3 happiest regions in 2019?
+
+
+
+3. Why is there no visualization for 2018? Hint: Look back at the variable names (column names) in each data set.
+
+
+
+4. Save a screenshot of your violin plot. Why do you think Freedom has two peaks?
+ 
+ 
+ 
+5. Save a screenshot of your scatter plot, and explain what the scatter plot is showing (e.g., positive, negative, no relationship).
+
+
+ 
+6. What do you notice about the pair plot? What might be a problem of plotting this particular data set in this way? Hint: Think about the number of countries in each region.
+
+
+
+7. From the two heat maps (data_2019 and data_2016), which factors are most correlated with Happiness_Score? 
+
+
